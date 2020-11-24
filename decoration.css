@@ -1,3 +1,6 @@
-.h{font-size: 50px; }
-.foo{color:#ff0000;}
-.p{text-decoration: line-through;}
+.h{font-size:48px;
+    margin:0;}
+ .foo{color:#ff0000;
+      margin:0;}
+ .p{text-decoration:line-through;
+    margin:0;}
